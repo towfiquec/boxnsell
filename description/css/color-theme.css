@@ -1,0 +1,147 @@
+a, .text-color {
+ 	color: #40c1c7;
+}
+
+.color-bg {
+    background-color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*	 Red Buttons 
+/*------------------------------------------*/
+.btn-color-ghost {
+	background: transparent;
+	color: #40c1c7;
+	border-color: #40c1c7;
+}
+
+.btn-color, .btn-color-ghost:hover {
+	background: #40c1c7;
+	color: #fff;
+	border-color: #40c1c7;
+}
+
+.btn-color:hover {
+	background: #ffffff;
+	color: #40c1c7;
+	border-color: #40c1c7;
+}
+
+.btn-white {
+    color: #40c1c7;
+}
+
+.navbar-nav>li>a.btn-signup {
+    background: #40c1c7;
+    color: #ffffff;
+    border-color: #40c1c7;
+}
+
+.navbar-nav>li>a.btn-signup:hover, .navbar-nav>li>a.btn-signup:focus {
+    background: #ffffff;
+    color: #40c1c7;
+    border-color: #ffffff;
+}
+
+/*------------------------------------------*/
+/*   Header Solid Bg
+/*------------------------------------------*/
+.solid-bg{
+    background:none;
+    background-color: #40c1c7;
+}
+
+.navbar-nav>li>a.btn-white{
+    color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*   Header App
+/*------------------------------------------*/
+.type .hero-section span{
+    background-color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*	 Form
+/*------------------------------------------*/
+.form-control {
+    border: 2px solid #26c6dc;
+}
+
+/*------------------------------------------*/
+/*	 Icons
+/*------------------------------------------*/
+.icon-lg:hover, .icon-lg:focus, .icon-sm:hover, .icon-sm:focus {
+    color:#40c1c7;
+}
+
+/*------------------------------------------*/
+/*	 Preloader
+/*------------------------------------------*/
+.preloader{
+	background-color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*   Navbar Links Menu
+/*------------------------------------------*/
+.is-scrolling .navbar-nav>.active>a, .is-scrolling .navbar-nav>.active>a:hover, .is-scrolling .navbar-nav>.active>a:focus {
+    color: #40c1c7;
+    background-color: transparent;
+}
+
+/*------------------------------------------*/
+/*   Login/Signup Modal
+/*------------------------------------------*/
+.login .modal-header .modal-title span{
+    font-weight: 400;
+    color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*   Pricing Tab
+/*------------------------------------------*/
+.pricing-tab {
+    border: 3px solid #26c6dc;
+}
+
+.pricing-tab h4 {
+    border-bottom: 3px solid #26c6dc;
+}
+
+.pricing-tab .ribbon .popular{
+    background-color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*   Team
+/*------------------------------------------*/
+.team-img .img-icons span i:hover{
+    color: #40c1c7;
+}
+
+/*------------------------------------------*/
+/*   Signup-Divider & Fast-Reg
+/*------------------------------------------*/
+.signup-divider .form-control:focus{
+    border-color: #40c1c7;
+}
+
+.fast-reg .form-control:focus{
+    background-color: #40c1c7;
+    border-color: #40c1c7;
+    box-shadow: none;
+}
+
+/*------------------------------------------*/
+/*   Footer
+/*------------------------------------------*/
+.footer a:hover{
+    color: #40c1c7;
+}
+
+
+
+
+
